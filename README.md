@@ -1,1 +1,3 @@
 # directionGame
+
+![](images/game.png)
