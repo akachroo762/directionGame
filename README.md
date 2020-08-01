@@ -1,4 +1,4 @@
-# directionGame
+# Direction Game
 
 ![](images/game.png)
 
